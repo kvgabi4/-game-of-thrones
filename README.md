@@ -1,4 +1,4 @@
-# -game-of-thrones
+# game-of-thrones
 Game Of Thrones characters
 
 Feladatodként a Trónok harca karaktereivel, azaz a karakterek adataival kell dolgoznod. Egy JSON file a 3. évad elejéig tartja nyilván az adatokat, szóval nincs spoiler veszély, hacsak nem még kimaradt az életedből a sorozat.
